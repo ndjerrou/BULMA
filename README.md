@@ -20,6 +20,8 @@ I encourage you to take a look at this nice and handly framework to be more prod
 
 Last but not least, we really appreciate the responsivness of the framework regardless the components or elements you use
 
-Live version of this repo (HERE)[]
+Live version of this repo (HERE)[https://raw.githack.com/ndjerrou/BULMA/master/index.html]
 
-You definitely have to give it a try !
+_You definitely have to give it a try !_
+
+Nissim DJERROUDI - @ndjerrou
