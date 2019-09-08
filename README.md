@@ -1,4 +1,4 @@
-Trying to use the new CSS-Framework (BULMA)[https://bulma.io/]
+Trying to use the new CSS-Framework [BULMA](https://bulma.io/)
 
 I used components such as :
 
@@ -20,7 +20,7 @@ I encourage you to take a look at this nice and handly framework to be more prod
 
 Last but not least, we really appreciate the responsivness of the framework regardless the components or elements you use
 
-Live version of this repo (HERE)[https://raw.githack.com/ndjerrou/BULMA/master/index.html]
+Live version of this repo [HERE](https://raw.githack.com/ndjerrou/BULMA/master/index.html)
 
 _You definitely have to give it a try !_
 
